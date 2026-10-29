@@ -1,0 +1,7 @@
+import React from 'react';
+
+export default function Page(): React.ReactNode {
+  return (
+    <h1>Dashboard Page</h1>
+  )
+}
